@@ -1,0 +1,14 @@
+D:\Works\quiz\bin\Debug\net8.0\quiz.exe
+D:\Works\quiz\bin\Debug\net8.0\quiz.deps.json
+D:\Works\quiz\bin\Debug\net8.0\quiz.runtimeconfig.json
+D:\Works\quiz\bin\Debug\net8.0\quiz.dll
+D:\Works\quiz\bin\Debug\net8.0\quiz.pdb
+D:\Works\quiz\obj\Debug\net8.0\quiz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\quiz\obj\Debug\net8.0\quiz.AssemblyInfoInputs.cache
+D:\Works\quiz\obj\Debug\net8.0\quiz.AssemblyInfo.cs
+D:\Works\quiz\obj\Debug\net8.0\quiz.csproj.CoreCompileInputs.cache
+D:\Works\quiz\obj\Debug\net8.0\quiz.dll
+D:\Works\quiz\obj\Debug\net8.0\refint\quiz.dll
+D:\Works\quiz\obj\Debug\net8.0\quiz.pdb
+D:\Works\quiz\obj\Debug\net8.0\quiz.genruntimeconfig.cache
+D:\Works\quiz\obj\Debug\net8.0\ref\quiz.dll
